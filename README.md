@@ -1,1 +1,1 @@
-# MyFirstProject
+# BSU FAMC materials
